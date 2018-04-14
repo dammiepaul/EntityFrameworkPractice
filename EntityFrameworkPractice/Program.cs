@@ -10,6 +10,7 @@ namespace EntityFrameworkPractice
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
